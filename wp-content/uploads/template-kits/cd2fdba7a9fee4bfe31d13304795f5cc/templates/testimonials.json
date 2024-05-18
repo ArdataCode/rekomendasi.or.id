@@ -1,0 +1,1089 @@
+{
+    "version": "0.4",
+    "title": "Testimonials",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "1baeb5ba",
+            "settings": {
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=c3d3479"
+                }
+            },
+            "elements": [
+                {
+                    "id": "46c8cd4c",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "__globals__": {
+                            "background_color": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "71cb6ee",
+                            "settings": {
+                                "title": "Testimonials",
+                                "header_size": "h1",
+                                "align": "center",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4a686192",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 800,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4f5271f1",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "5da4c61a",
+                            "settings": {
+                                "editor": "<p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla.<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=secondary",
+                                    "typography_typography": "globals\/typography?id=4c95432"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6e9a30db",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6d1f7e4a",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f",
+                            "background_color": "globals\/colors?id=c3d3479"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "52fcafc8",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/executive-talking-on-mobile-phone-in-park.jpg",
+                                    "id": 183,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Luke Colman",
+                                "testimonial_job": "Themeforest",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "44ea01ff",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1ec2565d",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/portrait-of-beautiful-executive.jpg",
+                                    "id": 182,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Cathy Cooper",
+                                "testimonial_job": "Codecanyon",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2d2ef68a",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "777b3195",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6305a7ab",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/portrait-of-male-executive-in-office.jpg",
+                                    "id": 184,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Carl Leahy",
+                                "testimonial_job": "Envato",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "53f9b03c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f",
+                            "background_color": "globals\/colors?id=c3d3479"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "358d262b",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/female-executive-using-digital-tablet-in-the-office.jpg",
+                                    "id": 185,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Dana Cotton",
+                                "testimonial_job": "Graphicriver",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "147f4178",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "6ae0a92d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f",
+                            "background_color": "globals\/colors?id=c3d3479"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "79538855",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/beauty-and-beautiful-black-african-girl-with-traditional-fashion-hat-with-jewels-posing-and-looking.jpg",
+                                    "id": 66,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Mollie Hope",
+                                "testimonial_job": "Elements",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7cc57725",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "62ae530e",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/fashion-woman-in-dress-with-stripes-.jpg",
+                                    "id": 1939,
+                                    "alt": "Fashion woman in dress with stripes.",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Lily Law",
+                                "testimonial_job": "Videohive",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1b058355",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "59c12383",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5805e43a",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/tourist-woman-in-the-camp-near-campfire.jpg",
+                                    "id": 1894,
+                                    "alt": "Tourist Woman in the Camp Near Campfire",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Freya Dean",
+                                "testimonial_job": "Audiojungle",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4f4e5798",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f",
+                            "background_color": "globals\/colors?id=c3d3479"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "64216163",
+                            "settings": {
+                                "testimonial_content": "Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum posuere consectetur est at loborti id elit non mi porta gravida at eget metus.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/man-chatting-with-a-bartender-in-a-pub.jpg",
+                                    "id": 1793,
+                                    "alt": "Man chatting with a bartender in a pub",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "John Gibson",
+                                "testimonial_job": "Photodune",
+                                "testimonial_alignment": "left",
+                                "content_content_color": "#525252",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=4384a6a",
+                                    "image_border_color": "",
+                                    "name_text_color": "globals\/colors?id=accent",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "job_text_color": "globals\/colors?id=1796ab4",
+                                    "job_typography_typography": "globals\/typography?id=5171c57"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "41cf2627",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "43209b5b",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "20",
+                            "bottom": "50",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=fb3838f"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "26dd51e7",
+                            "settings": {
+                                "title": "Love our articles?",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6a88b7d6",
+                            "settings": {
+                                "text": "Submit Your Testimonials",
+                                "align": "center",
+                                "icon_align": "right",
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "justify",
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "50",
+                                    "bottom": "16",
+                                    "left": "50",
+                                    "isLinked": false
+                                },
+                                "text_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "14",
+                                    "right": "14",
+                                    "bottom": "14",
+                                    "left": "14",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=accent",
+                                    "button_text_color": "globals\/colors?id=e7d44b5",
+                                    "button_background_hover_color": "globals\/colors?id=secondary",
+                                    "hover_color": "globals\/colors?id=e7d44b5",
+                                    "typography_typography": "globals\/typography?id=2a2e412"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "version": "0.4",
+    "title": "Block: Post Layout 15",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "27cae030",
+            "settings": {
+                "gap": "no",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "40",
+                    "bottom": "0",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "10",
+                    "bottom": "0",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2dab7ea5",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "74874ea8",
+                            "settings": {
+                                "_skin": "cards",
+                                "classic_columns": "1",
+                                "classic_meta_separator": "\/\/\/",
+                                "classic_read_more_text": "Read More \u00bb",
+                                "cards_columns": "1",
+                                "cards_columns_tablet": "1",
+                                "cards_posts_per_page": 2,
+                                "cards_thumbnail_size_size": "large",
+                                "cards_title_tag": "h2",
+                                "cards_excerpt_length": 53,
+                                "cards_meta_data": [
+                                    "author",
+                                    "date"
+                                ],
+                                "cards_meta_separator": "\/",
+                                "cards_read_more_text": "Read More",
+                                "cards_show_avatar": "",
+                                "full_content_meta_separator": "\/\/\/",
+                                "cards_alignment": "center",
+                                "cards_card_border_width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "cards_card_border_radius": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "cards_card_padding": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "cards_box_shadow_box_shadow_type": "",
+                                "cards_image_spacing": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "cards_badge_position": "left",
+                                "cards_badge_radius": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "cards_title_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "cards_excerpt_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "cards_read_more_spacing": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "pagination_page_limit": "5",
+                                "pagination_prev_label": "&laquo; Previous",
+                                "pagination_next_label": "Next &raquo;",
+                                "text": "Load More",
+                                "load_more_no_posts_custom_message": "No more posts to show",
+                                "__globals__": {
+                                    "cards_card_bg_color": "globals\/colors?id=e7d44b5",
+                                    "cards_card_border_color": "globals\/colors?id=fb3838f",
+                                    "cards_meta_border_color": "globals\/colors?id=fb3838f",
+                                    "cards_badge_bg_color": "globals\/colors?id=accent",
+                                    "cards_badge_color": "globals\/colors?id=e7d44b5",
+                                    "cards_badge_typography_typography": "globals\/typography?id=cf0c419",
+                                    "cards_title_typography_typography": "globals\/typography?id=secondary",
+                                    "cards_meta_color": "globals\/colors?id=1796ab4",
+                                    "cards_meta_typography_typography": "globals\/typography?id=5171c57",
+                                    "cards_excerpt_color": "globals\/colors?id=text",
+                                    "cards_excerpt_typography_typography": "globals\/typography?id=4384a6a",
+                                    "cards_read_more_color": "globals\/colors?id=accent",
+                                    "cards_read_more_typography_typography": "globals\/typography?id=2a2e412"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "posts",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

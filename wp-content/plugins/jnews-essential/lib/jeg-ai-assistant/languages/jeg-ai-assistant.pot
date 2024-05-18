@@ -1,0 +1,88 @@
+# Copyright (C) 2023 Jegtheme
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: JegAI Assistant 1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-09T01:21:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: jeg-ai-assistant\n"
+
+#. Plugin Name of the plugin
+msgid "JegAI Assistant"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Increase Productivity using Power of AI by generating high quality content for title, content article, subheading, and any other."
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: include/class/class-dashboard.php:122
+msgid "API key successfully connected."
+msgstr ""
+
+#: include/class/class-dashboard.php:131
+msgid "AI Assistant"
+msgstr ""
+
+#: include/class/class-dashboard.php:140
+#: include/class/class-dashboard.php:141
+msgid "General Setting"
+msgstr ""
+
+#: include/class/class-dashboard.php:172
+msgid "API Setting"
+msgstr ""
+
+#: include/class/class-dashboard.php:176
+msgid "Status"
+msgstr ""
+
+#: include/class/class-dashboard.php:182
+msgid "Activated"
+msgstr ""
+
+#: include/class/class-dashboard.php:183
+msgid "inactive"
+msgstr ""
+
+#: include/class/class-dashboard.php:187
+msgid "To connect your API key, click '<strong>Connect</strong>' to automatically authenticate your account. Alternatively, you can manually copy your API key from your <a href='%s' target='_blank'>account dashboard</a> and paste it into the input field above."
+msgstr ""
+
+#: include/class/class-dashboard.php:191
+msgid "Connect & Activate"
+msgstr ""
+
+#: include/class/class-dashboard.php:197
+msgid "API Key"
+msgstr ""
+
+#: include/class/class-dashboard.php:209
+msgid "OpenAI Model"
+msgstr ""
+
+#: include/class/class-dashboard.php:227
+msgid "Select the OpenAI model that best suits your content generation needs. Learn more about <a href=\"%s\">OpenAI Models</a>."
+msgstr ""
+
+#: template-parts/dashboard/setting.php:3
+msgid "JegAI Assistant Settings"
+msgstr ""

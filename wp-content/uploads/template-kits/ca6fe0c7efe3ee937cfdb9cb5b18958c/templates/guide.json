@@ -1,0 +1,1013 @@
+{
+    "version": "0.4",
+    "title": "Guide",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "30e0e738",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/52.jpg",
+                    "id": 553,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=7e293d1",
+                    "shape_divider_bottom_color": "globals\/colors?id=text"
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "animation": "fadeIn",
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_position_mobile": "center center",
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "20",
+                    "bottom": "40",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8,
+                    "sizes": []
+                },
+                "shape_divider_bottom_width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "shape_divider_bottom_height": {
+                    "unit": "px",
+                    "size": 80,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "44d04edb",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "12",
+                            "bottom": "0",
+                            "left": "12",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "align": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "6448148c",
+                            "settings": {
+                                "title": "Bali Travel Guide",
+                                "header_size": "h1",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                },
+                                "_animation": "fadeInDown",
+                                "align": "center",
+                                "_padding_tablet": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "_padding_mobile": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "title_color": "#FFFFFF",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "596dfa09",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.9,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=text",
+                    "background_color": "globals\/colors?id=d59e8a8"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "20",
+                    "bottom": "40",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "68fd6f57",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 65,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "100",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "40",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "40",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1cf9e781",
+                            "settings": {
+                                "title": "Explore",
+                                "header_size": "h6",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=secondary",
+                                    "_border_color": "globals\/colors?id=primary",
+                                    "_background_color_b": "globals\/colors?id=primary",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "",
+                                    "de_reveal_curtain_color": "globals\/colors?id=primary"
+                                },
+                                "_animation": "fadeInUp",
+                                "title_color": "#E7F6F2",
+                                "typography_font_family": "Space Grotesk",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.15,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "de_reveal_animation_type": "blockcurtain",
+                                "de_reveal_curtain_color": "#395B64",
+                                "de_reveal_easing": "easeInOutQuint",
+                                "de_reveal_duration": 500,
+                                "_background_color": "#A5C9CA",
+                                "_background_color_b": "#395B64",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 270,
+                                    "sizes": []
+                                },
+                                "_border_color": "#395B64",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 4,
+                                    "vertical": 4,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "#FFFFFF"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "41e2384f",
+                            "settings": {
+                                "title": "Beautiful Bali",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "46a1dc91",
+                            "settings": {
+                                "ekit_tab_items": [
+                                    {
+                                        "ekit_tab_title": "Transportation",
+                                        "ekit_tab_content": "<p>Mattis molestie a iaculis at erat pellentesque adipiscing. Netus et malesuada fames ac turpis egestas maecenas pharetra. Nisl vel pretium lectus quam id leo in vitae.<\/p><p>Lacus sed viverra tellus in hac. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Elit ullamcorper dignissim cras tincidunt lobortis.<\/p>",
+                                        "_id": "df14599",
+                                        "ekit_tab_title_icons": {
+                                            "value": "dticon dticon-airplane-outline",
+                                            "library": "dticon"
+                                        },
+                                        "ekit_tab_title_image": {
+                                            "url": "https:\/\/demo.eightheme.com\/writeup\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png",
+                                            "id": -1
+                                        }
+                                    },
+                                    {
+                                        "ekit_tab_title": "Security",
+                                        "ekit_tab_content": "<p>Bibendum est ultricies integer quis auctor elit. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Tortor at auctor urna nunc id cursus metus aliquam eleifend.<\/p><p>Est velit egestas dui id. Aliquam sem fringilla ut morbi tincidunt augue interdum. Elit eget gravida cum sociis natoque penatibus et.<\/p>",
+                                        "ekit_tab_title_icons": {
+                                            "value": "dticon dticon-shield-checkmark-outline",
+                                            "library": "dticon"
+                                        },
+                                        "_id": "3efa304",
+                                        "ekit_tab_title_image": {
+                                            "url": "https:\/\/demo.eightheme.com\/writeup\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png",
+                                            "id": -1
+                                        }
+                                    },
+                                    {
+                                        "ekit_tab_title": "Culture",
+                                        "ekit_tab_content": "<p>Mattis molestie a iaculis at erat pellentesque adipiscing. Netus et malesuada fames ac turpis egestas maecenas pharetra. Nisl vel pretium lectus quam id leo in vitae.<\/p><p>Lacus sed viverra tellus in hac. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Elit ullamcorper dignissim cras tincidunt lobortis.<\/p>",
+                                        "ekit_tab_title_icons": {
+                                            "value": "dticon dticon-cafe-outline",
+                                            "library": "dticon"
+                                        },
+                                        "_id": "ad3f83f",
+                                        "ekit_tab_title_image": {
+                                            "url": "https:\/\/demo.eightheme.com\/writeup\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png",
+                                            "id": -1
+                                        }
+                                    }
+                                ],
+                                "ekit_simple_tab_title_icon_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "ekit_tab_title_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_tab_title_border_active_group_border": "solid",
+                                "ekit_tab_title_border_active_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "ekit_tab_title_border_group_color": "globals\/colors?id=eee846c",
+                                    "ekit_tab_title_color": "globals\/colors?id=accent",
+                                    "ekit_tab_active_title_color": "globals\/colors?id=primary",
+                                    "ekit_tab_title_border_active_group_color": "globals\/colors?id=primary",
+                                    "ekit_tab_header_title_typography_group_typography": "globals\/typography?id=8a9c2d7",
+                                    "ekit_tab_body_color": "globals\/colors?id=accent"
+                                },
+                                "ekit_tab_style": "vertical",
+                                "ekit_tab_nav_width": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_tab_caret_style_choose": "",
+                                "ekit_tab_icon_margin_right": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "ekit_tab_icon_margin_right_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ekit_tab_header_content_position": "flex-start",
+                                "ekit_tab_nav_padding": {
+                                    "unit": "px",
+                                    "top": "14",
+                                    "right": "35",
+                                    "bottom": "14",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "ekit_tab_title_border_group_width_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_tab_body_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_tab_body_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-simple-tab",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f3c010",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.<\/p><p>Adipiscing tristique risus nec feugiat in fermentum posuere urna. Ac tincidunt vitae semper quis lectus. Lacinia quis vel eros donec ac odio tempor. Tortor aliquam nulla facilisi cras.<\/p><p>Fermentum odio eu feugiat pretium. Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Ultricies mi quis hendrerit dolor magna eget est. Porta nibh venenatis cras sed felis eget velit aliquet. Nunc vel risus commodo viverra. Faucibus ornare suspendisse sed nisi lacus sed viverra.<\/p>",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "85ffafb",
+                            "settings": {
+                                "title": "Place to Visit",
+                                "header_size": "h5",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "223c9b26",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Bali",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "d58f085",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Jogjakarta",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "81e17bb"
+                                    },
+                                    {
+                                        "text": "Papua New Guinea",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "23205e2"
+                                    },
+                                    {
+                                        "text": "Jakarta",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "a1ed718"
+                                    },
+                                    {
+                                        "text": "Surabaya",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "c16125b"
+                                    },
+                                    {
+                                        "text": "Surakarta",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "f818736"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_element_custom_width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=accent",
+                                    "text_color_hover": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "76b92ceb",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Sumatera",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "d58f085",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Kalimantan",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "81e17bb"
+                                    },
+                                    {
+                                        "text": "Sulawesi",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "23205e2"
+                                    },
+                                    {
+                                        "text": "Lombok",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "a1ed718"
+                                    },
+                                    {
+                                        "text": "Nusa Tenggara",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "c16125b"
+                                    },
+                                    {
+                                        "text": "Mount Semeru",
+                                        "selected_icon": {
+                                            "value": "fas fa-map-pin",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "f818736"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_element_custom_width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=accent",
+                                    "text_color_hover": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "23cc636a",
+                            "settings": {
+                                "text": "Open Trip",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_element_custom_width_tablet": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "_element_custom_width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "_element_width_mobile": "auto",
+                                "align": "left",
+                                "selected_icon": {
+                                    "value": "icon icon-right-arrow",
+                                    "library": "ekiticons"
+                                },
+                                "icon_align": "right",
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=e632858",
+                                    "button_text_color": "",
+                                    "hover_color": ""
+                                },
+                                "background_background": "",
+                                "background_color": "#FFFFFF00",
+                                "button_background_hover_background": ""
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "75e0b651",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 35,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "214fa54d",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/53.jpg",
+                                    "id": 555,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align": "right",
+                                "_animation": "fadeInRight",
+                                "image_custom_dimension": {
+                                    "width": "1000",
+                                    "height": "1000"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7bd863c",
+                            "settings": {
+                                "address": "Denpasar",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "px",
+                                    "size": 300,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "google_maps",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1e9cf1f2",
+            "settings": {
+                "layout": "full_width"
+            },
+            "elements": [
+                {
+                    "id": "2f9bdf68",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4ad8ddfe",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 184,
+                                        "url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/30.jpg"
+                                    },
+                                    {
+                                        "id": 556,
+                                        "url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/54.jpg"
+                                    },
+                                    {
+                                        "id": 534,
+                                        "url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/45.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "slides_to_show": "2",
+                                "slides_to_scroll": "1",
+                                "navigation": "arrows",
+                                "link_to": "file",
+                                "open_lightbox": "yes",
+                                "pause_on_hover": "no",
+                                "pause_on_interaction": "no",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-8",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn",
+                                "__globals__": {
+                                    "arrows_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

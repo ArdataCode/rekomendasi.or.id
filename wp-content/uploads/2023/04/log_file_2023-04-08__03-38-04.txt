@@ -1,0 +1,84 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://rekomendasi.or.id
+Data file = /home/498140.cloudwaysapps.com/qvwnksntud/public_html/wp-content/themes/newpress/inc/ocdi/content.xml
+Widget file = /home/498140.cloudwaysapps.com/qvwnksntud/public_html/wp-content/themes/newpress/inc/ocdi/widgets.wie
+Customizer file = /home/498140.cloudwaysapps.com/qvwnksntud/public_html/wp-content/themes/newpress/inc/ocdi/customizer.dat
+Redux files:
+newpress_data -> /home/498140.cloudwaysapps.com/qvwnksntud/public_html/wp-content/themes/newpress/inc/ocdi/redux.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category AROMA THERAPY
+[WARNING] Failed to import portfolio_category Education
+[WARNING] Failed to import portfolio_category FACE MASKS
+[WARNING] Failed to import portfolio_category Food
+[WARNING] Failed to import portfolio_category GEOTHERMAL SPA
+[WARNING] Failed to import portfolio_category Life Style
+[WARNING] Failed to import portfolio_category SAUNA RELAX
+[WARNING] Failed to import portfolio_category Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category AROMA THERAPY
+[WARNING] Failed to import portfolio_category Education
+[WARNING] Failed to import portfolio_category FACE MASKS
+[WARNING] Failed to import portfolio_category Food
+[WARNING] Failed to import portfolio_category GEOTHERMAL SPA
+[WARNING] Failed to import portfolio_category Life Style
+[WARNING] Failed to import portfolio_category SAUNA RELAX
+[WARNING] Failed to import portfolio_category Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category AROMA THERAPY
+[WARNING] Failed to import portfolio_category Education
+[WARNING] Failed to import portfolio_category FACE MASKS
+[WARNING] Failed to import portfolio_category Food
+[WARNING] Failed to import portfolio_category GEOTHERMAL SPA
+[WARNING] Failed to import portfolio_category Life Style
+[WARNING] Failed to import portfolio_category SAUNA RELAX
+[WARNING] Failed to import portfolio_category Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category AROMA THERAPY
+[WARNING] Failed to import portfolio_category Education
+[WARNING] Failed to import portfolio_category FACE MASKS
+[WARNING] Failed to import portfolio_category Food
+[WARNING] Failed to import portfolio_category GEOTHERMAL SPA
+[WARNING] Failed to import portfolio_category Life Style
+[WARNING] Failed to import portfolio_category SAUNA RELAX
+[WARNING] Failed to import portfolio_category Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category AROMA THERAPY
+[WARNING] Failed to import portfolio_category Education
+[WARNING] Failed to import portfolio_category FACE MASKS
+[WARNING] Failed to import portfolio_category Food
+[WARNING] Failed to import portfolio_category GEOTHERMAL SPA
+[WARNING] Failed to import portfolio_category Life Style
+[WARNING] Failed to import portfolio_category SAUNA RELAX
+[WARNING] Failed to import portfolio_category Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category AROMA THERAPY
+[WARNING] Failed to import portfolio_category Education
+[WARNING] Failed to import portfolio_category FACE MASKS
+[WARNING] Failed to import portfolio_category Food
+[WARNING] Failed to import portfolio_category GEOTHERMAL SPA
+[WARNING] Failed to import portfolio_category Life Style
+[WARNING] Failed to import portfolio_category SAUNA RELAX
+[WARNING] Failed to import portfolio_category Travel
+

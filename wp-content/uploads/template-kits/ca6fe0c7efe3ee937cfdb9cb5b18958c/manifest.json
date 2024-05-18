@@ -1,0 +1,871 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Travelog",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.eightheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Destinations",
+            "screenshot": "screenshots\/destinations.jpg",
+            "source": "templates\/destinations.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/destinations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Guide",
+            "screenshot": "screenshots\/guide.jpg",
+            "source": "templates\/guide.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/guide\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Resources",
+            "screenshot": "screenshots\/resources.jpg",
+            "source": "templates\/resources.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/resources\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe",
+            "screenshot": "screenshots\/subscribe.jpg",
+            "source": "templates\/subscribe.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/subscribe\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Write for Us",
+            "screenshot": "screenshots\/write-for-us.jpg",
+            "source": "templates\/write-for-us.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/write-for-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Post",
+            "screenshot": "screenshots\/post.jpg",
+            "source": "templates\/post.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contribute",
+            "screenshot": "screenshots\/metform-contribute.jpg",
+            "source": "templates\/metform-contribute.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/metform-contribute\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Subscribe",
+            "screenshot": "screenshots\/metform-subscribe.jpg",
+            "source": "templates\/metform-subscribe.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/travelog\/template-kit\/metform-subscribe\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "2.0.2",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "36.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/36-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 159217,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/aerial-view-of-road-through-fall-woods-with-colorf-VE483E2"
+        },
+        {
+            "filename": "37.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/37-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 103677,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confused-caucasian-man-looking-at-a-map-travel-and-P5777NJ"
+        },
+        {
+            "filename": "38.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/38.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 41864,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hot-air-balloons-festival-in-goreme-national-park--GGDNNJ3"
+        },
+        {
+            "filename": "39.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/39.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 94994,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/diamond-beach-nusa-penida-bali-DLLGWW7"
+        },
+        {
+            "filename": "40.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/40.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 50534,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/banff-canada-ZYV4SXY"
+        },
+        {
+            "filename": "41.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/41.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 70918,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/antequera-at-sunset-spain-PVK9X8S"
+        },
+        {
+            "filename": "42.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/42.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 104678,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/landscape-in-austria-mountains-and-reflections-in--R998PG8"
+        },
+        {
+            "filename": "43.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/43.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 41874,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/llama-PPCLTVW"
+        },
+        {
+            "filename": "44.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/44.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 51139,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/family-vacation-travel-rv-holiday-trip-in-motorhom-PQ5QMJV"
+        },
+        {
+            "filename": "45.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/45.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/guide.json",
+                    "name": "Guide"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 57491,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/speed-boat-8F7HTEB"
+        },
+        {
+            "filename": "46.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/46.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 49655,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/admiring-majestic-panorama-P3BA6JD"
+        },
+        {
+            "filename": "47.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/47.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 98290,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-in-the-forest-XGKN3AL"
+        },
+        {
+            "filename": "48.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/48.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/write-for-us.json",
+                    "name": "Write for Us"
+                }
+            ],
+            "filesize": 95062,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-african-american-man-using-laptop-while-t-MKP3QDL"
+        },
+        {
+            "filename": "49.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/49-800x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/subscribe.json",
+                    "name": "Subscribe"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 168115,
+            "dimensions": [
+                1920,
+                1261
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/old-map-to-planning-a-world-trip-travel-journey-pe-YZPNY2P"
+        },
+        {
+            "filename": "50.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/50-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 141488,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tourist-on-a-rock-in-switzerland-active-rest-and-t-8CL8V5Y"
+        },
+        {
+            "filename": "31.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/31-800x468.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 193067,
+            "dimensions": [
+                1920,
+                1123
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vector-dotted-world-map-4MLXK3M"
+        },
+        {
+            "filename": "26.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/26.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 50064,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wtBex4wQw60"
+        },
+        {
+            "filename": "51.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/51.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 88927,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/family-vacation-travel-rv-holiday-trip-in-motorhom-HSTBJPG"
+        },
+        {
+            "filename": "29.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/29.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 71601,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Z_-_ihPZQpE"
+        },
+        {
+            "filename": "52.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/52-800x325.jpg",
+            "templates": [
+                {
+                    "source": "templates\/guide.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 128022,
+            "dimensions": [
+                1920,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sea-beach-for-travel-background-thailand-nature-la-5KR4978"
+        },
+        {
+            "filename": "53.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/53.jpg",
+            "templates": [
+                {
+                    "source": "templates\/guide.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 88076,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bali-villa-with-infinity-pool-GAAQAL3"
+        },
+        {
+            "filename": "30.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/30.jpg",
+            "templates": [
+                {
+                    "source": "templates\/guide.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 65573,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/DuD5D3lWC3c"
+        },
+        {
+            "filename": "54.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/54.jpg",
+            "templates": [
+                {
+                    "source": "templates\/guide.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 86601,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/atlantic-puffin-THRCZM7"
+        },
+        {
+            "filename": "55.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/55-800x325.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 80853,
+            "dimensions": [
+                1920,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lake-sunset-2FL8P9Q"
+        },
+        {
+            "filename": "56.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/56.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 100878,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/airplane-model-on-wooden-floor-banner-3d-illustrat-YNZF6V5"
+        },
+        {
+            "filename": "57.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/57.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resources.json",
+                    "name": "Resources"
+                }
+            ],
+            "filesize": 48387,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-tropical-maldives-resort-hotel-water-vil-LGY6QWL"
+        },
+        {
+            "filename": "58.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/58-800x368.jpg",
+            "templates": [
+                {
+                    "source": "templates\/subscribe.json",
+                    "name": "Subscribe"
+                }
+            ],
+            "filesize": 122357,
+            "dimensions": [
+                1920,
+                882
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/POcLQMo2COg"
+        },
+        {
+            "filename": "59.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/59-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/post.json",
+                    "name": "Post"
+                }
+            ],
+            "filesize": 178120,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/family-vacation-travel-rv-holiday-trip-in-motorhom-HSTBJPG"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3868,
+            "dimensions": [
+                140,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/travelog\/wp-content\/uploads\/sites\/30\/2022\/09\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3205,
+            "dimensions": [
+                140,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

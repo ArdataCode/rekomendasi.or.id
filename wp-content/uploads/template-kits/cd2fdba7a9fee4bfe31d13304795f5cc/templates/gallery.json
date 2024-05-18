@@ -1,0 +1,254 @@
+{
+    "version": "0.4",
+    "title": "Gallery",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "645231df",
+            "settings": {
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=c3d3479"
+                }
+            },
+            "elements": [
+                {
+                    "id": "7fd1d6bf",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "__globals__": {
+                            "background_color": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6f80d56e",
+                            "settings": {
+                                "title": "Gallery",
+                                "header_size": "h1",
+                                "align": "center",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3635f81d",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "80",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "40",
+                    "bottom": "0",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "554da890",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "61e4a44d",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 181,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/little-girl-falls-asleep-in-bed-with-soft-doll-white.jpg"
+                                    },
+                                    {
+                                        "id": 180,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/rear-view-of-hiker-pouring-his-son-some-hot-tea.jpg"
+                                    },
+                                    {
+                                        "id": 179,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/beautiful-road-towards-mt-cook.jpg"
+                                    },
+                                    {
+                                        "id": 17,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/couple-watching-the-sunset.jpg"
+                                    },
+                                    {
+                                        "id": 66,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/beauty-and-beautiful-black-african-girl-with-traditional-fashion-hat-with-jewels-posing-and-looking.jpg"
+                                    },
+                                    {
+                                        "id": 68,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/tourist-girls.jpg"
+                                    },
+                                    {
+                                        "id": 14,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/parents-with-child-in-summer.jpg"
+                                    },
+                                    {
+                                        "id": 16,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/sunrise-on-the-island-of-santorini.jpg"
+                                    },
+                                    {
+                                        "id": 1886,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/coffee-cup-coffee-beans.jpg"
+                                    },
+                                    {
+                                        "id": 1879,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/friends-camping-eating-food-concept.jpg"
+                                    },
+                                    {
+                                        "id": 1951,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/mountain-biker.jpg"
+                                    },
+                                    {
+                                        "id": 1939,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/fashion-woman-in-dress-with-stripes-.jpg"
+                                    },
+                                    {
+                                        "id": 1894,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/tourist-woman-in-the-camp-near-campfire.jpg"
+                                    },
+                                    {
+                                        "id": 1819,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/couple-of-tourist-wearing-face-mask-to-protect-from-covid19-are-walking-in-the-city.jpg"
+                                    },
+                                    {
+                                        "id": 1829,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/group-of-friends-with-backpacks-trekking-together-and-climbing-in-forest.jpg"
+                                    },
+                                    {
+                                        "id": 1813,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/girl-filming-another-girl.jpg"
+                                    },
+                                    {
+                                        "id": 1870,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/beautiful-cornish-beach.jpg"
+                                    },
+                                    {
+                                        "id": 1868,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/decorated-window.jpg"
+                                    },
+                                    {
+                                        "id": 1955,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/planting-new-garden-trees.jpg"
+                                    },
+                                    {
+                                        "id": 67,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/2020-elderly-people-two-women-with-a-black-dog-walk-in-the-woods-in-nature.jpg"
+                                    },
+                                    {
+                                        "id": 64,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/wooden-house-on-the-beach-in-winter.jpg"
+                                    },
+                                    {
+                                        "id": 63,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/sunset-over-the-islands-of-halong-bay-in-northern-vietnam-.jpg"
+                                    },
+                                    {
+                                        "id": 178,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/group-of-people-talking-about-business.jpg"
+                                    },
+                                    {
+                                        "id": 70,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/sea-resort-aerial-view.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "a7dbd13"
+                                    }
+                                ],
+                                "columns": 3,
+                                "columns_tablet": 3,
+                                "columns_mobile": 2,
+                                "gap_mobile": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "thumbnail_image_size": "medium_large",
+                                "show_all_galleries_label": "All",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "image_hover_animation": "grow",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "image_border_color": ""
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "ha_grid_number": "",
+        "ha_grid_zindex": "1000",
+        "template": "elementor_header_footer"
+    }
+}

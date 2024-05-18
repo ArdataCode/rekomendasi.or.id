@@ -1,0 +1,279 @@
+{
+    "version": "0.4",
+    "title": "Block: Content 2",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-about",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6f113103",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "gap": "no",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "40",
+                    "bottom": "0",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "structure": "20"
+            },
+            "elements": [
+                {
+                    "id": "365b1e24",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 42,
+                        "align": "space-between",
+                        "_inline_size_tablet": 100,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "100",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4cef67b3",
+                            "settings": {
+                                "image": {
+                                    "id": "",
+                                    "url": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "title_text": "Independent reporting, expert analysis, and on-the-ground reporting is the mission of Maglobe.",
+                                "description_text": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Praesent commodo cursus nisl consectetur et. Sed posuere consectetur est at lobortis. Vestibulum id ligula porta felis euismod semper.",
+                                "position": "right",
+                                "title_size": "h2",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "text_align": "left",
+                                "content_vertical_alignment": "middle",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "title_typography_typography": "globals\/typography?id=secondary",
+                                    "description_color": "globals\/colors?id=text",
+                                    "description_typography_typography": "globals\/typography?id=4384a6a"
+                                },
+                                "thumbnail_size": "thumbnail",
+                                "image_space_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "image_size_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "thumbnail_custom_dimension": {
+                                    "width": "800",
+                                    "height": "700"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7d7bea4a",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Tomorrow\u2019s News Today.",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "4abbb8b"
+                                    },
+                                    {
+                                        "text": "All the news you need and more.",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "bfa5816"
+                                    },
+                                    {
+                                        "text": "For those who make decisions that count.",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "3a7b78b"
+                                    },
+                                    {
+                                        "text": "Makes you a little wiser.",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "e0a2e94"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "icon_align": "left",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_self_align": "left",
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=text",
+                                    "icon_typography_typography": "globals\/typography?id=4384a6a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "587de087",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 58,
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "60",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "523a4de8",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 1819,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/08\/couple-of-tourist-wearing-face-mask-to-protect-from-covid19-are-walking-in-the-city.jpg"
+                                    },
+                                    {
+                                        "id": 68,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/tourist-girls.jpg"
+                                    },
+                                    {
+                                        "id": 180,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/rear-view-of-hiker-pouring-his-son-some-hot-tea.jpg"
+                                    },
+                                    {
+                                        "id": 67,
+                                        "url": "https:\/\/www.maglobekit.hocud.com\/wp-content\/uploads\/2021\/10\/2020-elderly-people-two-women-with-a-black-dog-walk-in-the-woods-in-nature.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "ce1ceb8"
+                                    }
+                                ],
+                                "columns": 2,
+                                "columns_mobile": 2,
+                                "gap_mobile": {
+                                    "unit": "px",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "aspect_ratio": "4:3",
+                                "thumbnail_image_size": "medium_large",
+                                "show_all_galleries_label": "All"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

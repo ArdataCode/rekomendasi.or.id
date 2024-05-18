@@ -1,0 +1,254 @@
+# Copyright (C) 2023 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Social Login 11.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-03T07:27:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: jnews-social-login\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Social Login"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Social Login & Registration Plugin for JNews Themes"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: class.jnews-social-login.php:362
+msgid "Graph returned an error: "
+msgstr ""
+
+#: class.jnews-social-login.php:364
+msgid "Facebook SDK returned an error: "
+msgstr ""
+
+#: class.jnews-social-login.php:366
+msgid "Error: "
+msgstr ""
+
+#: class.jnews-social-login.php:397
+#: class.jnews-social-login.php:431
+#: class.jnews-social-login.php:466
+#: class.jnews-social-login.php:487
+msgid "Error"
+msgstr ""
+
+#: class.jnews-social-login.php:397
+msgid "Failed to get Google Code"
+msgstr ""
+
+#: class.jnews-social-login.php:466
+msgid "Failed to get Linked in access token"
+msgstr ""
+
+#: class.jnews-social-login.php:607
+msgid "OR"
+msgstr ""
+
+#: class.jnews-social-login.php:627
+msgid "Sign In with Facebook"
+msgstr ""
+
+#: class.jnews-social-login.php:628
+msgid "Sign In with Google"
+msgstr ""
+
+#: class.jnews-social-login.php:629
+msgid "Sign In with Linked In"
+msgstr ""
+
+#: class.jnews-social-login.php:633
+msgid "Sign Up with Facebook"
+msgstr ""
+
+#: class.jnews-social-login.php:634
+msgid "Sign Up with Google"
+msgstr ""
+
+#: class.jnews-social-login.php:635
+msgid "Sign Up with Linked In"
+msgstr ""
+
+#: include/class.jnews-social-login-option.php:48
+msgid "Social Login Setting"
+msgstr ""
+
+#: jnews-social-login.php:109
+msgid "Please <strong>Do not use Plain Permalink setting</strong>. To change this setting, please go to Settings > Permalinks."
+msgstr ""
+
+#: social-login-option.php:6
+msgid "Subscriber"
+msgstr ""
+
+#: social-login-option.php:7
+msgid "Contributor"
+msgstr ""
+
+#: social-login-option.php:8
+msgid "Author"
+msgstr ""
+
+#: social-login-option.php:12
+msgid "Participant"
+msgstr ""
+
+#: social-login-option.php:22
+msgid "Social Login Info"
+msgstr ""
+
+#: social-login-option.php:33
+msgid "Show Social Login"
+msgstr ""
+
+#: social-login-option.php:34
+msgid "Choose the location to display the social login & registration."
+msgstr ""
+
+#: social-login-option.php:36
+msgid "Login Only"
+msgstr ""
+
+#: social-login-option.php:37
+msgid "Registration Only"
+msgstr ""
+
+#: social-login-option.php:38
+msgid "Show on Both"
+msgstr ""
+
+#: social-login-option.php:39
+msgid "Hide"
+msgstr ""
+
+#: social-login-option.php:50
+msgid "User Role"
+msgstr ""
+
+#: social-login-option.php:51
+msgid "Choose new user default role."
+msgstr ""
+
+#: social-login-option.php:69
+msgid "Social Login Style"
+msgstr ""
+
+#: social-login-option.php:70
+msgid "Choose social login button style."
+msgstr ""
+
+#: social-login-option.php:72
+msgid "Normal"
+msgstr ""
+
+#: social-login-option.php:73
+msgid "Light"
+msgstr ""
+
+#: social-login-option.php:91
+msgid "Facebook Integration"
+msgstr ""
+
+#: social-login-option.php:92
+msgid "Enable Facebook login and registration."
+msgstr ""
+
+#: social-login-option.php:109
+msgid "Facebook App ID"
+msgstr ""
+
+#: social-login-option.php:110
+msgid "You can create an application and get Facebook App ID <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: social-login-option.php:132
+msgid "Facebook App Secret"
+msgstr ""
+
+#: social-login-option.php:133
+msgid "You can create an application and get Facebook App Secret <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: social-login-option.php:155
+msgid "Google Integration"
+msgstr ""
+
+#: social-login-option.php:156
+msgid "Enable Google login and registration."
+msgstr ""
+
+#: social-login-option.php:173
+msgid "Google Apps Name"
+msgstr ""
+
+#: social-login-option.php:174
+msgid "You can create an application and get Google Apps <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: social-login-option.php:196
+msgid "Google Client ID"
+msgstr ""
+
+#: social-login-option.php:197
+msgid "You can create an application and get Google Client ID <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: social-login-option.php:219
+msgid "Google Client Secret"
+msgstr ""
+
+#: social-login-option.php:220
+msgid "You can create an application and get Google Client Secret <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: social-login-option.php:242
+msgid "Linked In Integration"
+msgstr ""
+
+#: social-login-option.php:243
+msgid "Enable Linked In login and registration."
+msgstr ""
+
+#: social-login-option.php:260
+msgid "Linked In Client ID"
+msgstr ""
+
+#: social-login-option.php:261
+msgid "You can create an application and get Linked In Client ID <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: social-login-option.php:283
+msgid "Linked In Client Secret"
+msgstr ""
+
+#: social-login-option.php:284
+msgid "You can create an application and get Linked In Client Secret <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: social-login-option.php:306
+msgid "Previous Page Redirect"
+msgstr ""
+
+#: social-login-option.php:307
+msgid "Enable this option to redirect to the previous login page after social login."
+msgstr ""
